@@ -14,6 +14,7 @@
 - [Proof of Stake](https://download.wpsoftware.net/bitcoin/pos.pdf)
 - [Ouborous](https://eprint.iacr.org/2016/889.pdf)
 - [Stake-Bleeding Attacks on Proof-of-Stake Blockchains](https://eprint.iacr.org/2018/248.pdf)
+- [Vitalik Buterin on PoW vs PoS](https://www.youtube.com/watch?v=hxSUCao7psM)
 
 ### Alternatives
 - [Hybrid Algorithms]
