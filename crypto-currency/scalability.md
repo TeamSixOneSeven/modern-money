@@ -25,12 +25,15 @@ Blockchains ( Arthur Gervais )](https://eprint.iacr.org/2016/555.pdf)
     - [On the Security and Performance of Proof of Work
   Blockchains [ Talk ]](https://www.youtube.com/watch?time_continue=8857&v=_Z0ID-0DOnc)
 - [Segregated Witness](https://en.bitcoin.it/wiki/Segregated_Witness)
+- Smaller transactions
+  - [Schnorr Signatures](Schnorr Signature)
+- Block Propagation
+  - [O(1) Block Propagation](https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2) 
 - Thin Verification
  - [Merkle tree of open transactions for lite mode](https://bitcointalk.org/index.php?topic=21995.0)
  - [Merkle tree of unspent transactions (MTUT), for serverless thin clients and self-verifiable prunned blockchain](https://en.bitcoin.it/wiki/User:DiThi/MTUT)
  - [Ultimate blockchain compression with trust-free lite nodes](https://bitcointalk.org/index.php?topic=88208.0)
  - [Progress on Scaling via Client-Side Validation ( Peter Todd )](https://www.youtube.com/watch?time_continue=6204&v=uO-1rQbdZuk)
-- Smaller transactions
 - Sharding
   - [Sidechains](https://www.blockstream.com/sidechains.pdf)
   - [Ethereum 2.0](https://youtu.be/9RtSod8EXn4?t=3h11m45s)

@@ -1,6 +1,6 @@
 # Modern Money
 
-_Modern Money_ is an engineering-driven meta-research project on the current state of the art of _trustless payment systems_ such as Bitcoin. The purpose of this library is to structure knowledge about cryptocurrencies to provide an overview of the most urgent challenges, their solutions and the status of implementation.
+_Modern Money_ is an engineering-driven meta-research project on the current state of the art of _trustless payment systems_ such as Bitcoin. The purpose is to structure a library of knowledge about cryptocurrencies to provide an overview of the most urgent challenges, their solutions and the status of implementation.
 
 ## Overview
 There are two main chapters:
