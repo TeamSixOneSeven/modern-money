@@ -28,7 +28,10 @@ Blockchains ( Arthur Gervais )](https://eprint.iacr.org/2016/555.pdf)
     - [Segregated witness and its impact on scalability (Pieter Wuille)](https://www.youtube.com/watch?v=NOYNZB5BCHM)
 - Smaller transactions
   - [Schnorr Signatures](https://en.wikipedia.org/wiki/Schnorr_signature)
-  - [Per-block non-interactive Schnorr signature	aggregation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014272.html)
+  - Signature Aggregation
+      - [Simple Schnorr Multi-Signatures with Applications to Bitcoin](https://eprint.iacr.org/2018/068.pdf)
+      - [Per-block non-interactive Schnorr signature	aggregation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014272.html)
+      - [Sequential Aggregate Signatures from Trapdoor Permutations](https://hovav.net/ucsd/dist/rsaagg.pdf)
 - Faster Block Propagation
   - [Compact Block Relay (Matt Corallo)](https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki)
   - [O(1) Block Propagation (Gavin Andresen)](https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2) 
@@ -57,7 +60,7 @@ Scalable Off-Chain Instant Payments ( Joseph Poon, Thaddeus Dryja )](https://lig
 - Zero-knowledge proofs
   - [zk-SNARKs](https://eprint.iacr.org/2013/879.pdf)
   - [zk-STARKs](https://eprint.iacr.org/2018/046.pdf)
-  - Schnorr Signature Magic
+  - More Schnorr Magic
     - Script-less scripts
       - [Mimblewimble and Scriptless Scripts ( Andrew Poelstra )](https://www.youtube.com/watch?v=ovCBT1gyk9c)
       - [Using the Chain for what Chains are Good For ( Andrew Poelstra )
