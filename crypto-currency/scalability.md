@@ -24,7 +24,8 @@ There are multiple proposed solutions and research efforts:
 Blockchains ( Arthur Gervais )](https://eprint.iacr.org/2016/555.pdf)
     - [On the Security and Performance of Proof of Work
   Blockchains [ Talk ]](https://www.youtube.com/watch?time_continue=8857&v=_Z0ID-0DOnc)
-- [Segregated Witness](https://en.bitcoin.it/wiki/Segregated_Witness)
+  - [Segregated Witness](https://en.bitcoin.it/wiki/Segregated_Witness)
+    - [Segregated witness and its impact on scalability (Pieter Wuille)](https://www.youtube.com/watch?v=NOYNZB5BCHM)
 - Smaller transactions
   - [Schnorr Signatures](Schnorr Signature)
 - Block Propagation
