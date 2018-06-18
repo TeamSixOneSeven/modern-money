@@ -28,6 +28,7 @@ Blockchains ( Arthur Gervais )](https://eprint.iacr.org/2016/555.pdf)
     - [Segregated witness and its impact on scalability (Pieter Wuille)](https://www.youtube.com/watch?v=NOYNZB5BCHM)
 - Smaller transactions
   - [Schnorr Signatures](https://en.wikipedia.org/wiki/Schnorr_signature)
+  - [Per-block non-interactive Schnorr signature	aggregation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014272.html)
 - Faster Block Propagation
   - [Compact Block Relay (Matt Corallo)](https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki)
   - [O(1) Block Propagation (Gavin Andresen)](https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2) 
