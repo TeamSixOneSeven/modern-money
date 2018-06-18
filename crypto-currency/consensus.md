@@ -9,6 +9,7 @@
 - ASICs are probably unavoidable.
 - With ASICs, mining centralization in China is unavoidable.
 - There are scientist running experiments to design algorithms which are ASIC-resistant such as [Cuckoo Cycles](https://github.com/tromp/cuckoo).
+- [BetterHash Mining Protocol (Matt Corallo)](https://github.com/TheBlueMatt/bips/blob/master/bip-XXXX.mediawiki#Motivation)
 
 ### Proof of Stake
 - [Proof of Stake](https://download.wpsoftware.net/bitcoin/pos.pdf)
