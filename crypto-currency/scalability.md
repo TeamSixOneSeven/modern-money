@@ -29,7 +29,8 @@ Blockchains ( Arthur Gervais )](https://eprint.iacr.org/2016/555.pdf)
 - Smaller transactions
   - [Schnorr Signatures](Schnorr Signature)
 - Block Propagation
-  - [O(1) Block Propagation](https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2) 
+  - [Compact Block Relay (Matt Corallo)](https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki)
+  - [O(1) Block Propagation (Gavin Andresen)](https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2) 
 - Thin Verification
  - [Merkle tree of open transactions for lite mode](https://bitcointalk.org/index.php?topic=21995.0)
  - [Merkle tree of unspent transactions (MTUT), for serverless thin clients and self-verifiable prunned blockchain](https://en.bitcoin.it/wiki/User:DiThi/MTUT)
