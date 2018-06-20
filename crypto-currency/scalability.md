@@ -33,6 +33,7 @@ Blockchains ( Arthur Gervais )](https://eprint.iacr.org/2016/555.pdf)
       - [Per-block non-interactive Schnorr signature	aggregation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014272.html)
       - [Sequential Aggregate Signatures from Trapdoor Permutations](https://hovav.net/ucsd/dist/rsaagg.pdf)
 - Faster Block Propagation
+  - [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/)
   - [Compact Block Relay (Matt Corallo)](https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki)
   - [O(1) Block Propagation (Gavin Andresen)](https://gist.github.com/gavinandresen/e20c3b5a1d4b97f79ac2) 
 - Sharding
