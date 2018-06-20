@@ -14,6 +14,8 @@ limits the overall throughput of the system as a whole.
 - Bitcoin's maximum network throughput is `1 MB / 10 min = 1.66 KB / s`.
 - Average transaction size is [745 kb/block](https://blockchain.info/charts/avg-block-size) / [1400 TX/block](https://blockchain.info/charts/n-transactions-per-block) = [532 bytes](https://charts.bitcoin.com/chart/transaction-size)
 - [Bitcoin's P2P Network: The Soft Underbelly of Bitcoin](https://www.youtube.com/watch?time_continue=37&v=Y6kibPzbrIc)
+- [Staled and Orphaned Blocks](https://bitcoin.org/en/glossary/stale-block)
+ - [Number of Orphaned Blocks](https://blockchain.info/charts/n-orphaned-blocks?timespan=all)
 
 ## Solutions
 There are multiple proposed solutions and research efforts:
