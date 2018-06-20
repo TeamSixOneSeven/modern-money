@@ -9,10 +9,11 @@ We need to increase Bitcoin's current capacity by a factor of about 40 to scale 
 ## Core Problem
 The core problem is the quadratic scaling of messages in the network. On-chain payments must be verified and stored by
 every node in the network, meaning that the node with the least resources
-limits the overall throughput of the system as a whole.
+limits the overall throughput of the system as a whole. 
 
-- Bitcoin's enforced maximum network throughput is `1 MB / 10 min = 1.66 KB / s`.
+- Bitcoin's maximum network throughput is `1 MB / 10 min = 1.66 KB / s`.
 - Average transaction size is [745 kb/block](https://blockchain.info/charts/avg-block-size) / [1400 TX/block](https://blockchain.info/charts/n-transactions-per-block) = [532 bytes](https://charts.bitcoin.com/chart/transaction-size)
+- [Bitcoin's P2P Network: The Soft Underbelly of Bitcoin](https://www.youtube.com/watch?time_continue=37&v=Y6kibPzbrIc)
 
 ## Solutions
 There are multiple proposed solutions and research efforts:
