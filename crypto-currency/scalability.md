@@ -13,6 +13,7 @@ limits the overall throughput of the system as a whole.
 
 - Bitcoin's maximum network throughput is `1 MB / 10 min = 1.66 KB / s`.
 - Average transaction size is [745 kb/block](https://blockchain.info/charts/avg-block-size) / [1400 TX/block](https://blockchain.info/charts/n-transactions-per-block) = [532 bytes](https://charts.bitcoin.com/chart/transaction-size)
+- [Bitcoin's Weaknesses](https://en.bitcoin.it/wiki/Weaknesses)
 - [Bitcoin's P2P Network: The Soft Underbelly of Bitcoin](https://www.youtube.com/watch?time_continue=37&v=Y6kibPzbrIc)
 - [Staled and Orphaned Blocks](https://bitcoin.org/en/glossary/stale-block)
  - [Number of Orphaned Blocks](https://blockchain.info/charts/n-orphaned-blocks?timespan=all)
@@ -35,6 +36,7 @@ Blockchains ( Arthur Gervais )](https://eprint.iacr.org/2016/555.pdf)
       - [Simple Schnorr Multi-Signatures with Applications to Bitcoin](https://eprint.iacr.org/2018/068.pdf)
       - [Per-block non-interactive Schnorr signature	aggregation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014272.html)
       - [Sequential Aggregate Signatures from Trapdoor Permutations](https://hovav.net/ucsd/dist/rsaagg.pdf)
+  - [Coalescing Transaction](https://github.com/bitcoin/bips/blob/master/bip-0131.mediawiki)
 - Faster Block Propagation
   - [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/)
   - [Compact Block Relay (Matt Corallo)](https://github.com/bitcoin/bips/blob/master/bip-0152.mediawiki)
