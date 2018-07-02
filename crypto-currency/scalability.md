@@ -77,5 +77,6 @@ Scalable Off-Chain Instant Payments ( Joseph Poon, Thaddeus Dryja )](https://lig
     - [Bullet Proofs](https://cryptopapers.info/assets/pdf/bulletproofs.pdf)
 
 ### Network Layer
+- [Peer-to-Peer Communication Across Network Address Translators](http://www.brynosaurus.com/pub/net/p2pnat/)
 - [A New Method for Symmetric NAT Traversal in UDP and TCP](http://www.goto.info.waseda.ac.jp/~wei/file/wei-apan-v10.pdf)
 - [DHT-based NAT Traversal](http://docs.maidsafe.net/Whitepapers/pdf/DHTbasedNATTraversal.pdf)
