@@ -75,3 +75,7 @@ Scalable Off-Chain Instant Payments ( Joseph Poon, Thaddeus Dryja )](https://lig
       - [Discreet Log Contracts ( Thaddeus Dryja )](https://www.youtube.com/watch?time_continue=7045&v=LDF8bOEqXt4)
       - [Discreet Log Contracts: Privacy-preserving smart contracts on Bitcoin ( Thaddeus Dryja )](https://www.youtube.com/watch?v=Vpr3vKeByfM)
     - [Bullet Proofs](https://cryptopapers.info/assets/pdf/bulletproofs.pdf)
+
+### Network Layer
+- [A New Method for Symmetric NAT Traversal in UDP and TCP](http://www.goto.info.waseda.ac.jp/~wei/file/wei-apan-v10.pdf)
+- [DHT-based NAT Traversal](http://docs.maidsafe.net/Whitepapers/pdf/DHTbasedNATTraversal.pdf)
