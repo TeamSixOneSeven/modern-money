@@ -15,8 +15,10 @@ limits the overall throughput of the system as a whole.
 - Average transaction size is [745 kb/block](https://blockchain.info/charts/avg-block-size) / [1400 TX/block](https://blockchain.info/charts/n-transactions-per-block) = [532 bytes](https://charts.bitcoin.com/chart/transaction-size)
 - [Bitcoin's Weaknesses](https://en.bitcoin.it/wiki/Weaknesses)
 - [Bitcoin's P2P Network: The Soft Underbelly of Bitcoin](https://www.youtube.com/watch?time_continue=37&v=Y6kibPzbrIc)
+- [On Scaling Decentralized Blockchains](https://www.tik.ee.ethz.ch/file/74bc987e6ab4a8478c04950616612f69/main.pdf)
 - [Staled and Orphaned Blocks](https://bitcoin.org/en/glossary/stale-block)
  - [Number of Orphaned Blocks](https://blockchain.info/charts/n-orphaned-blocks?timespan=all)
+
 
 ## Solutions
 There are multiple proposed solutions and research efforts:
