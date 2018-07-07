@@ -32,10 +32,13 @@ Blockchains ( Arthur Gervais )](https://eprint.iacr.org/2016/555.pdf)
     - [Segregated witness and its impact on scalability (Pieter Wuille)](https://www.youtube.com/watch?v=NOYNZB5BCHM)
 - Smaller transactions
   - [Schnorr Signatures](https://en.wikipedia.org/wiki/Schnorr_signature)
+      - [BIP Schnorr](https://github.com/sipa/bips/blob/bip-schnorr/bip-schnorr.mediawiki)
   - Signature Aggregation
       - [Simple Schnorr Multi-Signatures with Applications to Bitcoin](https://eprint.iacr.org/2018/068.pdf)
       - [Per-block non-interactive Schnorr signature	aggregation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-May/014272.html)
       - [Sequential Aggregate Signatures from Trapdoor Permutations](https://hovav.net/ucsd/dist/rsaagg.pdf)
+  - [BLS Signatures](https://eprint.iacr.org/2018/483.pdf)
+      - [BLS Signatures at Scaling Bitcoin](https://www.youtube.com/watch?v=LDF8bOEqXt4&feature=youtu.be&t=3h4m31s)
   - [Coalescing Transaction](https://github.com/bitcoin/bips/blob/master/bip-0131.mediawiki)
 - Faster Block Propagation
   - [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/)
